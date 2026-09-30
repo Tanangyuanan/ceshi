@@ -1,0 +1,68 @@
+{
+  "format": "personal-space/v1",
+  "title": "结绳记事",
+  "intro": "",
+  "bio": "",
+  "modules": [
+    {
+      "id": "profile",
+      "title": "关于我",
+      "kind": "profile",
+      "visible": true,
+      "layout": "story",
+      "color": "#c0afa0"
+    },
+    {
+      "id": "article",
+      "title": "文章",
+      "kind": "article",
+      "visible": true,
+      "layout": "ledger",
+      "color": "#a299b5"
+    },
+    {
+      "id": "project",
+      "title": "作品",
+      "kind": "project",
+      "visible": true,
+      "layout": "gallery",
+      "color": "#78b7bd"
+    },
+    {
+      "id": "stash",
+      "title": "灵感碎片",
+      "kind": "life",
+      "visible": true,
+      "layout": "board",
+      "color": "#99b79f"
+    },
+    {
+      "id": "spark",
+      "title": "创意实验",
+      "kind": "project",
+      "visible": true,
+      "layout": "ledger",
+      "color": "#899eb3"
+    },
+    {
+      "id": "life",
+      "title": "生活记录",
+      "kind": "life",
+      "visible": true,
+      "layout": "list",
+      "color": "#c18ba9"
+    },
+    {
+      "id": "ai",
+      "title": "问问这个空间",
+      "kind": "ai",
+      "visible": true,
+      "layout": "conversation",
+      "color": "#c9a675"
+    }
+  ],
+  "theme": {
+    "accent": "#ad5b3f",
+    "paper": "cream"
+  }
+}
